@@ -1,0 +1,5 @@
+.stestr
+.testrepository
+coverage.xml
+.coverage
+cover
